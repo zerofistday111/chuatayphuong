@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Chùa Tây Phương",
+      "hasCanvas": false,
+      "bodyTextLen": 1537,
+      "bodyTextHash": "289a7d5569838119787de6d72791d1197e9ed23c44884de5504abc1b29924045",
+      "bodyTextPrefix": "THẠCH THẤT · HÀ NỘI Tây Phương SÙNG PHÚC TỰ · CÂU LÂU SƠN DI TÍC",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Chùa Tây Phương",
+      "hasCanvas": false,
+      "bodyTextLen": 1463,
+      "bodyTextHash": "a98e2522843da0eb96ceda0eae218f47162aab05c5cc382db6725be12e911612",
+      "bodyTextPrefix": "THẠCH THẤT · HÀ NỘI Tây Phương SÙNG PHÚC TỰ · CÂU LÂU SƠN DI TÍC",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text changed (331 -> 1463 chars, hash mismatch)"
+  ]
+}
